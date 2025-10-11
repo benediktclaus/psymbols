@@ -1,5 +1,5 @@
 # psymbols: A typst Package for Psychotherapy Symbols
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/github/license/benediktclaus/psymbols)](LICENSE)
 
 A local typst package providing a comprehensive set of symbols for SORKC microanalysis in psychotherapy reports. This package helps therapists create consistent and professional documentation with ease.
 
