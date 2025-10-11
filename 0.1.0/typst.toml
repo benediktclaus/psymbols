@@ -1,0 +1,10 @@
+[package]
+name = "psymbols"
+version = "0.1.0"
+entrypoint = "lib.typ"
+description = "Eine Sammlung von Symbolen für die SORKC-Mikroanalyse in der Psychotherapie."
+keywords = ["Psychotherapie", "SORKC", "CBT", "KVT", "Verhaltenstherapie", "Symbole", "symbols", "psychotherapy"]
+categories = ["utility"]
+authors = ["Benedikt Claus"]
+repository = "https://github.com/benediktclaus/psymbols" 
+license = "MIT"
