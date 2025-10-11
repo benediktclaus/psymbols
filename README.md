@@ -47,7 +47,7 @@ A behavioral sequence can be described as follows:
 ## Symbol Reference
 The following image provides a complete overview of all available symbols, their commands, and their descriptions.
 
-![Symbol Reference](img/psymbols.png)
+<img src="img/psymbols-test.jpg" alt="Symbol Reference" width="800"/>
 
 ## Contributing & Feedback
 This package is designed for practical use. If you are missing symbols, have suggestions for improvements, or encounter any issues, please feel free to open an issue in this GitHub repository.
