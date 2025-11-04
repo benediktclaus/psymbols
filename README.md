@@ -1,8 +1,8 @@
 # psymbols: A typst Package for Psychotherapy Symbols
 
-[![GitHub License](https://img.shields.io/github/license/benediktclaus/psymbols)](LICENSE)
-[![GitHub Release](https://img.shields.io/github/v/release/benediktclaus/psymbols)](https://github.com/benediktclaus/psymbols/releases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/benediktclaus/psymbols)](https://github.com/benediktclaus/psymbols/commits/main)
+[![GitHub License](https://img.shields.io/github/license/benediktclaus/psymbols?style=flat-square)](LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/benediktclaus/psymbols?style=flat-square)](https://github.com/benediktclaus/psymbols/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/benediktclaus/psymbols?style=flat-square)](https://github.com/benediktclaus/psymbols/commits/main)
 
 A local `typst` package providing a comprehensive set of symbols for SORKC microanalysis in psychotherapy reports. This package helps therapists create consistent and professional documentation with ease. It is a core dependency for the [`pkv-report`](https://github.com/benediktclaus/pkv-report) and [`gkv-report`](https://github.com/benediktclaus/gkv-report) templates.
 
